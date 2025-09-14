@@ -1,0 +1,21 @@
+.slider_img {
+  height: 70rem;
+}
+.slider_saction {
+  width: 100%;
+  max-width: 110rem;
+  margin: auto;
+}
+.slider_Woman_img {
+  height: 60rem;
+  object-fit: cover;
+}
+.silder_ditels {
+  min-width: 50%;
+  display: inline-block;
+}
+.silder_ditels h1 {
+  font-size: 100px;
+  line-height: 100px;
+  font-weight: 500;
+}

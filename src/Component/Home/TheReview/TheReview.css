@@ -1,0 +1,8 @@
+.bacground_gradiant {
+  background: rgb(4, 0, 255);
+  background: linear-gradient(
+    180deg,
+    rgba(4, 0, 255, 0.09567577030812324) 0%,
+    rgba(255, 255, 255, 0) 60%
+  );
+}
